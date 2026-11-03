@@ -4,6 +4,7 @@
 Use o VLibras no seu computador ou smartphone, para fazer o download de plugins, add-ons, instaladores e aplicativos da suíte VLibras para seu navegador Web, computador ou smartphone.
   https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
 
+
 = Squid     (Camada de Segurança)
 Destina-se apenas a pessoas que desejam colocar o Squid em funcionamento rapidamente. Ele não substitui a documentação oficial. O Squid possui muitos recursos, mas apenas alguns deles são úteis no início. Utilize este material somente se você tiver uma configuração bastante simples.
   https://www.squid-cache.org/Doc/
