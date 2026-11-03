@@ -1,3 +1,6 @@
+Núcleo de Inteligência Artificial (NIA) 
+https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1
+
 Plano Brasileiro de Inteligência Artificial (PBIA) 2024-2028
 https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial
 
@@ -7,19 +10,17 @@ https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/EFGD/po
 PORTARIA SGD/MGI Nº 473, DE 20 DE JANEIRO DE 2026
 https://www.in.gov.br/web/dou/-/portaria-sgd/mgi-n-473-de-20-de-janeiro-de-2026-682795741
 
-Banco Brasileiro de Soluções de IA
- https://bancobrasileiro.ia.br/
-
- LEI Nº 15.263, DE 14 DE NOVEMBRO DE 2025 - Institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os Poderes da União, dos Estados, do Distrito Federal e dos Municípios.
+LEI Nº 15.263, DE 14 DE NOVEMBRO DE 2025 - Institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os Poderes da União, dos Estados, do Distrito Federal e dos Municípios.
  https://www.in.gov.br/en/web/dou/-/lei-n-15.263-de-14-de-novembro-de-2025-669256398
  https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15263.htm
 
- Projeto regulamenta uso da inteligência artificial no Brasil 
+Banco Brasileiro de Soluções de IA
+ https://bancobrasileiro.ia.br/
+
+Projeto regulamenta uso da inteligência artificial no Brasil 
  Fonte: Agência Câmara de Notícias
  https://www.camara.leg.br/noticias/1159193-projeto-que-regulamenta-uso-da-inteligencia-artificial-no-brasil
- 
- Inteligência Artificial (NIA)
- https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1
+
 
  ABNT ISO/IEC TR 24368:2025 	Tecnologia da informação - Inteligência artificial - Visão geral das preocupações éticas e sociais 	13/06/2025
 
