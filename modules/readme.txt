@@ -12,7 +12,7 @@ Destina-se apenas a pessoas que desejam colocar o Squid em funcionamento rapidam
   Container Docker - https://hub.docker.com/r/ubuntu/squid
 
 
-= LangGraph
+= LangGraph  (IA)
 É um framework de orquestração de código aberto que usa estruturas de grafos cíclicos para criar fluxos de trabalho complexos para agentes de IA. O framework LangGraph permite a recuperação de estado quando há alguma interrupção no processo, oferecendo persistência e auxiliando na escala da produção.
   https://www.langchain.com/langgraph
   https://github.com/langchain-ai/langgraph
