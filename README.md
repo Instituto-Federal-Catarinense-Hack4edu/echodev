@@ -7,9 +7,13 @@ Diseñe una solución que ayude a todos los estudiantes a seguir la explicación
 
 # Problema
   El estudiante se pierde y nadie lo sabe, tres cosas a la vez:
+  
     + 1) Lo que dice el profesor
+    
     + 2) Lo que escribe en pantalla
+    
     + 3) Vocabulario técnico en inglés como ejemplo (Diversos idiomas)
+    
 
 # Solución Projecto EchoDev#2026
    Una misma explicación para cada ritmo
