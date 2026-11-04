@@ -3,7 +3,7 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Framework](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![LGPD Compliant](https://img.shields.io/badge/LGPD-Privacy%20by%20Design-success?style=flat-square)](PRIVACY.md)
-
+[![PYTHON Version]([https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))](https://www.python.org/)
 ---
 # EchoDev
 Reto 26: Cada uno con su ritmo
