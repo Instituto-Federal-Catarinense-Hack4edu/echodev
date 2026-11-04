@@ -17,9 +17,11 @@ Diseñe una solución que ayude a todos los estudiantes a seguir la explicación
 
 # Solución Projecto EchoDev#2026
    Una misma explicación para cada ritmo
-     PARA EL ESTUDIANTE
-      Transcripción en vivo - Todo lo que dice el profesor, en texto.
-      Texto a tu medida - Tamaño de letra e idioma ajustables.
-      Resumen y quiz - Para repasar, con el aval del profesor.
+   
+    - PARA EL ESTUDIANTE
+    
+     + Transcripción en vivo - Todo lo que dice el profesor, en texto.
+     + Texto a tu medida - Tamaño de letra e idioma ajustables.
+     + Resumen y quiz - Para repasar, con el aval del profesor.
 
           Nota: Prototipo de las pantallas del estudiante (interfaz en portugués)
