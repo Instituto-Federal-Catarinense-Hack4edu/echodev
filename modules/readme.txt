@@ -1,4 +1,12 @@
+====================
 === Integração  ====
+====================
+
+== Moodle (Ambiente de Aprendizagem)
+O Moodle foi projetado para permitir que educadores, administradores e estudantes criem ambientes de aprendizagem personalizados por meio de um sistema único, robusto, seguro e integrado.  
+  https://github.com/moodle/moodle
+  https://docs.moodle.org/dev/Web_service_API_functions
+
 
 = VLibras   (Acessibilidade)
 Use o VLibras no seu computador ou smartphone, para fazer o download de plugins, add-ons, instaladores e aplicativos da suíte VLibras para seu navegador Web, computador ou smartphone.
