@@ -5,7 +5,7 @@
 
 # Catarina — AI-Powered Adaptive Microlearning Platform
 
-<img width="100%" height="auto" alt="EchoDev project cover" src="/images/echodev-perfil-claro.png" />
+<img width="100%" height="auto" alt="EchoDev project cover" src="/images/identidade-visual/echodev-perfil-claro.png" />
 
 ## Overview
 
