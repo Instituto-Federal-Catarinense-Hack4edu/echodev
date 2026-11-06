@@ -41,3 +41,7 @@ Diseñe una solución que ayude a todos los estudiantes a seguir la explicación
      + Resumen y quiz - Para repasar, con el aval del profesor.
 
           Nota: Prototipo de las pantallas del estudiante (interfaz en portugués)
+
+
+# Codificación de la solución propuesta - Projecto EchoDev#2026
+   EchoDev-code: [https://github.com/Instituto-Federal-Catarinense-Hack4edu/echodev-code]
