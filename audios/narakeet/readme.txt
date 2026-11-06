@@ -1,1 +1,1 @@
-Essa pasta contém os audios utilizados para fazer o vídeo dos slides
+Esta carpeta contiene los audios utilizados para realizar el video de las diapositivas.
