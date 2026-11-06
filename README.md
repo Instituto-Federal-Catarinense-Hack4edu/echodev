@@ -6,7 +6,7 @@
 
 # EchoDev — Logo
 
-<img width="50%" height="auto" alt="EchoDev project cover" src="/images/identidade-visual/echodev-mascote-logo.png" />
+<img width="50%" height="auto" alt="EchoDev project cover" src="/images/identidade-visual/echodev_mascote_logo.png" />
 
 ## Overview
 
