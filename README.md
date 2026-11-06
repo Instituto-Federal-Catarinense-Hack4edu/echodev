@@ -1,3 +1,6 @@
+mascote-echodev.jpeg
+
+
 # 🚀 EchoDev#
 
 [![LGPD Compliant](https://img.shields.io/badge/LGPD-Privacy%20by%20Design-success?style=flat-square)](PRIVACY.md)
