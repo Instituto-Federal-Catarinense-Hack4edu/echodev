@@ -3,6 +3,12 @@
 [![LGPD Compliant](https://img.shields.io/badge/LGPD-Privacy%20by%20Design-success?style=flat-square)](PRIVACY.md)
 [![PYTHON Version](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
+# Catarina — AI-Powered Adaptive Microlearning Platform
+
+<img width="100%" height="auto" alt="EchoDev project cover" src="/images/echodev-perfil-claro.png" />
+
+## Overview
+
 ---
 # EchoDev
 Reto 26: Cada uno con su ritmo
