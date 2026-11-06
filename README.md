@@ -43,5 +43,5 @@ Diseñe una solución que ayude a todos los estudiantes a seguir la explicación
           Nota: Prototipo de las pantallas del estudiante (interfaz en portugués)
 
 
-# Codificación de la solución propuesta - Projecto EchoDev#2026
+# Codificación de la solución prototipada - Projecto EchoDev#2026
    EchoDev-code: [https://github.com/Instituto-Federal-Catarinense-Hack4edu/echodev-code]
