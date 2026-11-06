@@ -4,7 +4,7 @@
 [![LGPD Compliant](https://img.shields.io/badge/LGPD-Privacy%20by%20Design-success?style=flat-square)](PRIVACY.md)
 [![PYTHON Version](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-# EchoDev — Logo
+# EchoDev: Una misma explicación para todo tipo de estudiante
 
 <img width="100%" height="auto" alt="EchoDev project cover" src="/images/identidade-visual/echodev_mascote_logo.png" />
 
