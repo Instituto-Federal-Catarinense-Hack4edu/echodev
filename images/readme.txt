@@ -1,1 +1,1 @@
-Logomarca - https://canva.link/o6sb87v560evshi
+Imágenes producidas o utilizadas como referencia
